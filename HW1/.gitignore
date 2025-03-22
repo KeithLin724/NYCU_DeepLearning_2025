@@ -1,3 +1,4 @@
 fashion/
 flower/
 *.npy
+*_logs/
