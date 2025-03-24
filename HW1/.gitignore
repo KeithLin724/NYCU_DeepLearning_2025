@@ -3,3 +3,4 @@ flower/
 *.npy
 *_logs/
 logs_*
+data/
