@@ -1,0 +1,4 @@
+*.pdf
+*.parquet
+2/ground_truth
+2/ground_truth/*
