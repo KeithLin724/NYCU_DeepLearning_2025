@@ -8,3 +8,4 @@ temp/
 model/
 *.model.*
 *.model
+logs/
