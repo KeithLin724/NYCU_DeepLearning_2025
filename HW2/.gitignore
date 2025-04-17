@@ -10,3 +10,5 @@ model/
 *.model
 logs/
 results/
+submission/
+submission_*
