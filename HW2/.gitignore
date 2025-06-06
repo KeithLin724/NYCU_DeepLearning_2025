@@ -3,3 +3,13 @@
 2/ground_truth
 2/ground_truth/*
 face_dataset/
+results/
+submission/
+2025-*
+logs/
+model/
+temp
+submit/
+data/
+*_cache/
+upload_*
